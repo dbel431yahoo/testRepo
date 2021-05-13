@@ -1,0 +1,22 @@
+{
+    "name": "323434",
+    "version": "1.0.0",
+    "description": "\"# testRepo\"",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dbel431yahoo/testRepo.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dbel431yahoo/testRepo/issues"
+    },
+    "homepage": "https://github.com/dbel431yahoo/testRepo#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
